@@ -1,15 +1,15 @@
 # Exercise-2
-## fzf 
-  ### Definition
+## A) fzf 
+  ### 1- Definition
   `fzf` itis interactive finder dialogue and instant feedback that filters items as you type . the primary use case for fzf is to search for files on the command line.
   `fzf` supports fuzzy matching so you can just type several characters in a row and it will match lines with those characters scattered across the string.
   
   
-  ### installion :(*just type this command line*)
+  ### 2- installion :(*just type this command line*)
   `sudo apt install fzf`
   
   
-  ### matching :
+  ### 3- matching :
     `fzf` support 2 types of matching :
       1- exact matching
       2- fuzzy matching
@@ -37,7 +37,7 @@
    ```
    
    
-  ### results of the search :
+  ### 4- results of the search :
    you can select some items of the results of the search with the `tab` key . it seems not useful unless you redirect your output to another file with `|`          (pipe).
    
    
@@ -58,10 +58,10 @@
   
   
   
-## history command :
+## B) history command :
 
 
- ### OVERVIEW :
+ ### 1- OVERVIEW :
   All of our services are currently running on Linux. In Linux, there is a very useful command to show you all of the last commands that have been recently used.   The command is simply called history, but can also be accessed by looking at your .bash_history in your home folder. By default, the history command will show     you the last five hundred commands you have entered.
   
  ```
@@ -94,7 +94,7 @@
  history | fzf "item you search for"
  ``` 
   
-## More ways to use the command .
+## 2- More ways to use the command .
 
   ### If you wish to view the history one page at a time, you can use the command below. Now, you can simply use the spacebar to view one page at a time or use     the down arrow to view one line at a time:
   
