@@ -94,7 +94,7 @@
  history | fzf "item you search for"
  ``` 
   
-### More ways to use the command .
+## More ways to use the command .
 
   ### If you wish to view the history one page at a time, you can use the command below. Now, you can simply use the spacebar to view one page at a time or use     the down arrow to view one line at a time:
   
