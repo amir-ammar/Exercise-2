@@ -57,6 +57,7 @@
   ### for further explaination just visit >> [fzf tutorials](https://www.freecodecamp.org/news/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff/)
   
   
+  
 ## history command :
 
 
@@ -95,7 +96,7 @@
   
 ### More ways to use the command .
 
-  # If you wish to view the history one page at a time, you can use the command below. Now, you can simply use the spacebar to view one page at a time or use the   down arrow to view one line at a time:
+  ### If you wish to view the history one page at a time, you can use the command below. Now, you can simply use the spacebar to view one page at a time or use     the down arrow to view one line at a time:
   
   `history | less`
   
