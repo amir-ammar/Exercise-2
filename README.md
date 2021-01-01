@@ -96,16 +96,16 @@
   
 ## 2- More ways to use the command .
 
-  ### If you wish to view the history one page at a time, you can use the command below. Now, you can simply use the spacebar to view one page at a time or use     the down arrow to view one line at a time:
+  ##### If you wish to view the history one page at a time, you can use the command below. Now, you can simply use the spacebar to view one page at a time or use     the down arrow to view one line at a time:
   
   `history | less`
   
   
-  ### To view just the last ten commands, you can use the following :
+  ##### To view just the last ten commands, you can use the following :
   
   `history | tail`
   
-  ### To view the last `n` commands, just use the following:
+  ##### To view the last `n` commands, just use the following:
   
   `history `n` `
   
